@@ -17,7 +17,7 @@ let BARK_SOUND = '';
 //此处填你telegram bot 的Token，例如：1077xxx4424:AAFjv0FcqxxxxxxgEMGfi22B4yh15R5uw
 //注：此处设置github action用户填写到Settings-Secrets里面(Name输入TG_BOT_TOKEN)
 let TG_BOT_TOKEN = '1465723424:AAHtll4rVcg7QcIbFu_wyWJ-AvzWi9w4ivE';
-//此处填你接收通知消息的telegram用户的id，例如：129xxx206
+//此处填你接收通知消息的telegram用户的id，例如：129xxx201
 //注：此处设置github action用户填写到Settings-Secrets里面(Name输入TG_USER_ID)
 let TG_USER_ID = '247076382';
 
